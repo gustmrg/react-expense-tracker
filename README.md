@@ -12,33 +12,15 @@
     Expense tracker made with ReactJS. It has been built with best practices using various components, State Hook and renders lists using conditionals.
     <br />
     <br />
-    <a href="https://github.com/gustmrg/react-expense-tracker" target="_blank">View Demo</a>
+    <a href="https://expense-tracker-gustmrg.netlify.app/" target="_blank">View Demo</a>
   </p>
 </div>
+<div align="center">
+  <img src="img/expenses-tracker-desktop" alt="Picture Expenses Tracker App on Desktop">
+  <br />
+  <img src="img/expenses-tracker-mobile" alt="Picture Expenses Tracker App on Mobile">
+</div>
 
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-To be added.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-### Built With
-
-- [React.js](https://reactjs.org/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contact
-
-Gustavo Miranda - [@twitter_handle](https://twitter.com/gustm) - gmiranda90@outlook.com
-
-Project Link: [https://github.com/gustmrg/react-expense-tracker](https://github.com/gustmrg/react-expense-tracker)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
