@@ -16,9 +16,8 @@
   </p>
 </div>
 <div align="center">
-  <img src="img/expenses-tracker-desktop" alt="Picture Expenses Tracker App on Desktop">
-  <br />
-  <img src="img/expenses-tracker-mobile" alt="Picture Expenses Tracker App on Mobile">
+  <img src="img/expenses-tracker-desktop.png" alt="Picture of Expenses Tracker App on Desktop" height="600px" width="550px"> 
+  <img src="img/expenses-tracker-mobile.png" alt="Picture of Expenses Tracker App on Mobile" height="660px" width="300px">
 </div>
 
 
